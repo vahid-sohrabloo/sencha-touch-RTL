@@ -1,11 +1,20 @@
-sencha-touch-RTL
+Sencha touch RTL
 ================
 
 sencha touch 2 RTL
 
+work on
+Android 2.x
+Android 4.x
+google chrome
+
+maybe not work on ios. if any one can help to test  with ios please pull request.
+
+
 ## Demo
 
 very soon upload
+
 
 ## Install
 
