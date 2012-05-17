@@ -3,6 +3,10 @@ sencha-touch-RTL
 
 sencha touch 2 RTL
 
+## Demo
+
+very soon upload
+
 ## Install
 
 add sencha-touch-rtl.css  after sencha touch css and add sencha-rtl.js after  secnha js.
